@@ -8,3 +8,5 @@ O objetivo principal do algoritmo é permitir a entrada de um Código Morse, e c
 Abaixo uma imagem da topologia da árvore binária com a regra de Código Morse.
 
 ![image](https://github.com/user-attachments/assets/e753a36d-9495-4f0e-ab8d-7792cb143d4c)
+
+O programa possui uma interface onde o usuário pode escolher entre inserir um código morse e receber o correspondete em caracteres alfanuméricos, exibir a árvore e inserir um novo caractere na árvore.
